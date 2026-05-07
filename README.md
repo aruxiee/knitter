@@ -100,3 +100,7 @@ This is the final step that forces the target process to start a new thread and 
 *   **Indirect Syscalls**: Use assembly to call kernel functions directly, bypassing security hooks.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
