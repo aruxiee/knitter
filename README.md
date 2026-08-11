@@ -102,5 +102,5 @@ This is the final step that forces the target process to start a new thread and 
 ---
 
 <p align="center">
-  With ❤️ by <b>Aradhya</b>
+  With ❤️ by <b>Arusha</b>
 </p>
